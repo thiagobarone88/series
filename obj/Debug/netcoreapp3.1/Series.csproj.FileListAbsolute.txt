@@ -1,0 +1,13 @@
+C:\Users\Felipe\Desktop\Trabalhos Thiago\Series\bin\Debug\netcoreapp3.1\Series.exe
+C:\Users\Felipe\Desktop\Trabalhos Thiago\Series\bin\Debug\netcoreapp3.1\Series.deps.json
+C:\Users\Felipe\Desktop\Trabalhos Thiago\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.json
+C:\Users\Felipe\Desktop\Trabalhos Thiago\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\Trabalhos Thiago\Series\bin\Debug\netcoreapp3.1\Series.dll
+C:\Users\Felipe\Desktop\Trabalhos Thiago\Series\bin\Debug\netcoreapp3.1\Series.pdb
+C:\Users\Felipe\Desktop\Trabalhos Thiago\Series\obj\Debug\netcoreapp3.1\Series.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Trabalhos Thiago\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Trabalhos Thiago\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Trabalhos Thiago\Series\obj\Debug\netcoreapp3.1\Series.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Trabalhos Thiago\Series\obj\Debug\netcoreapp3.1\Series.dll
+C:\Users\Felipe\Desktop\Trabalhos Thiago\Series\obj\Debug\netcoreapp3.1\Series.pdb
+C:\Users\Felipe\Desktop\Trabalhos Thiago\Series\obj\Debug\netcoreapp3.1\Series.genruntimeconfig.cache
